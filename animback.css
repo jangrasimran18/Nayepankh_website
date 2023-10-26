@@ -1,0 +1,6 @@
+*{padding: 0; margin: 0; box-sizing: border-box; font-family : cursive}
+.container {
+    width: 100px;
+    height: 100vh;
+    background: linear-gradient (90deg, rgb(46,57,59,0.8) , rgba(232,67,147,1.0));
+}
